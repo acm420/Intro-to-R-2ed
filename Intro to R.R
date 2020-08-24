@@ -2,7 +2,7 @@
 # Copy for RStudent 2020
 ######################################################
 
-# You will see that you can put non-executable "comment" lines
+# You will see that you can put non-executable "comment" lines 123
 # in your script by putting "#" at the beginning of the lines.
 # 
 # In fact, you can put comments anywhere on a line as long as 
